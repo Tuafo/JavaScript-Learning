@@ -1,0 +1,15 @@
+#countLabel {
+    display: block;
+    text-align: center;
+    font-size: 50px;
+}
+
+.btn {
+    font-size: 25px;
+    padding: 0px 50px 0px 50px;
+    margin: 5px;
+}
+
+#btns {
+    text-align: center;
+}
